@@ -21,8 +21,7 @@
         "normalize.css": "^7.0.0",
         "stoppable": "^1.0.4",
         "iscroll": "5.1.0",
-        "vuetify": "^0.17.5",
-        "mintui": "^"
+        "vuetify": "^0.17.5"
     },
     "devDependencies": {
         "autoprefixer": "^7.2.5",

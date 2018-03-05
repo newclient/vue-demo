@@ -14,7 +14,7 @@ import {mapActions} from 'vuex';
 function setState(store) {
     store.dispatch('appShell/appHeader/setAppHeader', {
         show: true,
-        title: 'Lavas',
+        title: 'Lavasa',
         showMenu: true,
         showBack: false,
         showLogo: false,
